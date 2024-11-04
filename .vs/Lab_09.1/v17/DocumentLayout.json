@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DCEFDE-C077-4728-8280-49629E0C5238}|UnitTest09.1\\UnitTest09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\UnitTest09.1\\UnitTest09.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DCEFDE-C077-4728-8280-49629E0C5238}|UnitTest09.1\\UnitTest09.1.vcxproj|solutionrelative:UnitTest09.1\\UnitTest09.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|solutionrelative:Lab_09.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|solutionrelative:Lab_09.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|solutionrelative:Lab_09.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|solutionrelative:Lab_09.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|solutionrelative:Lab_09.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|solutionrelative:Lab_09.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\Lab_09.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFA01D1-A437-48D4-B001-266B1D3E32A1}|Lab_09.1\\Lab_09.1.vcxproj|solutionrelative:Lab_09.1\\Lab_09.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest09.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\UnitTest09.1\\UnitTest09.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest09.1\\UnitTest09.1.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\UnitTest09.1\\UnitTest09.1.cpp",
+              "RelativeToolTip": "UnitTest09.1\\UnitTest09.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T10:00:11.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sum.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\sum.cpp",
+              "RelativeDocumentMoniker": "Lab_09.1\\sum.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\sum.cpp",
+              "RelativeToolTip": "Lab_09.1\\sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T09:56:18.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dod.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\dod.cpp",
+              "RelativeDocumentMoniker": "Lab_09.1\\dod.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\dod.cpp",
+              "RelativeToolTip": "Lab_09.1\\dod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T09:55:50.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sum.h",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\sum.h",
+              "RelativeDocumentMoniker": "Lab_09.1\\sum.h",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\sum.h",
+              "RelativeToolTip": "Lab_09.1\\sum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T09:55:13.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dod.h",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\dod.h",
+              "RelativeDocumentMoniker": "Lab_09.1\\dod.h",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\dod.h",
+              "RelativeToolTip": "Lab_09.1\\dod.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T09:54:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "var.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\var.cpp",
+              "RelativeDocumentMoniker": "Lab_09.1\\var.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\var.cpp",
+              "RelativeToolTip": "Lab_09.1\\var.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T09:52:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "var.h",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\var.h",
+              "RelativeDocumentMoniker": "Lab_09.1\\var.h",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\var.h",
+              "RelativeToolTip": "Lab_09.1\\var.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T09:51:46.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab_09.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\Lab_09.1.cpp",
+              "RelativeDocumentMoniker": "Lab_09.1\\Lab_09.1.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_09.1\\Lab_09.1\\Lab_09.1.cpp",
+              "RelativeToolTip": "Lab_09.1\\Lab_09.1.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T09:48:16.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
